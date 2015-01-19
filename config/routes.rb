@@ -8,6 +8,5 @@ Rails.application.routes.draw do
   end
 
   root "todo_lists#index"
-
-
+  
 end
